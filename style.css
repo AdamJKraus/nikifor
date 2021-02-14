@@ -1,0 +1,50 @@
+﻿* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./images/tlo.jpg");
+  color: rgb(228, 228, 228);
+  font-family: "Roboto", sans-serif;
+}
+.tytul {
+  text-align: center;
+  width: 60%;
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cytat {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  width: 40%;
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Pacifico", cursive;
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(7.5px);
+  -webkit-backdrop-filter: blur(7.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  width: 60%;
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+h2 {
+  width: 60%;
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
